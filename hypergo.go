@@ -1,3 +1,4 @@
+// hypergo builds HTML in pure Go.
 package hypergo
 
 import (
